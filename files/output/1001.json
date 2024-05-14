@@ -1,0 +1,1 @@
+Evento: ${header.CamelFileEventType} Arquivo: ${header.CamelFileName}, Enviando o ${header.CamelFileName}
